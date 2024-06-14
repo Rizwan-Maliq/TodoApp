@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Laboratory omprov\\TodoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCFC72E-3A6E-4F64-9F7E-560651957211}|TodoApp\\TodoApp.csproj|f:\\laboratory omprov\\todoapp\\todoapp\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFCFC72E-3A6E-4F64-9F7E-560651957211}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCFC72E-3A6E-4F64-9F7E-560651957211}|TodoApp\\TodoApp.csproj|f:\\laboratory omprov\\todoapp\\todoapp\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFCFC72E-3A6E-4F64-9F7E-560651957211}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCFC72E-3A6E-4F64-9F7E-560651957211}|TodoApp\\TodoApp.csproj|f:\\laboratory omprov\\todoapp\\todoapp\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFCFC72E-3A6E-4F64-9F7E-560651957211}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "F:\\Laboratory omprov\\TodoApp\\TodoApp\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "TodoApp\\Pages\\Counter.razor",
+              "ToolTip": "F:\\Laboratory omprov\\TodoApp\\TodoApp\\Pages\\Counter.razor",
+              "RelativeToolTip": "TodoApp\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T09:23:19.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "F:\\Laboratory omprov\\TodoApp\\TodoApp\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "TodoApp\\Layout\\NavMenu.razor",
+              "ToolTip": "F:\\Laboratory omprov\\TodoApp\\TodoApp\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "TodoApp\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T09:02:05.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Todo.razor",
+              "DocumentMoniker": "F:\\Laboratory omprov\\TodoApp\\TodoApp\\Pages\\Todo.razor",
+              "RelativeDocumentMoniker": "TodoApp\\Pages\\Todo.razor",
+              "ToolTip": "F:\\Laboratory omprov\\TodoApp\\TodoApp\\Pages\\Todo.razor",
+              "RelativeToolTip": "TodoApp\\Pages\\Todo.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T09:00:50.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
